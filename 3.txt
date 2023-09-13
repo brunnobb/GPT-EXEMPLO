@@ -1,0 +1,122 @@
+Contact
+Rua das Arecas, 342 Amaral - Vitória Lagos Park - 93821-384
++5551936184982 (Mobile)
+luciano.seibel@gmail.com
+www.linkedin.com/in/lucianoseibel (LinkedIn)
+
+Top Skills
+Software Development ERP
+JavaScript
+
+Languages
+English
+
+Luciano Seibel
+Software engineer. Java, Spring, Oracle, Progress, Mysql, MongoDB, PHP, Kafka, PostGreSql
+Sapiranga, Rio Grande do Sul, Brazil
+
+Summary
+I'm a developer by nature way but evoluting myself to management and business to.
+
+https://www.16personalities.com/profiles/0283ee2a9cc5e
+
+
+Experience
+Luciano Seibel ME
+Software Engineer
+August 2023 - Present (2 months) Sapiranga, Rio Grande do Sul, Brazil
+
+Calçados Beira Rio S/A
+Software Developer
+February 2023 - August 2023 (7 months) Novo Hamburgo, Rio Grande do Sul, Brazil
+
+LendingClub
+Software Engineer
+August 2022 - November 2022 (4 months) San Francisco Bay Area
+Software engineer. Mainly Java with Spring Boot. Creation of new module for the personal loans.
+
+Onnitech
+Sr Java Software Developer
+November 2021 - July 2022 (9 months)
+Java developer. Mysql especialist. Responsable for the Charge module. Responsable for Mysql data migrations beetween V1 to V2 of the system.
+
+Virtueyes Soluções em Comunicações de Dados
+4 years 6 months
+Software Engineering Manager
+
+
+
+
+April 2018 - September 2021 (3 years 6 months) Novo Hamburgo Area, Brazil
+Gestor de equipe de desenvolvimento Java/NodeJs. Scrum Master. Implantador do Agile. DevOps AWS. Principal contato sobre os bancos de dados da empresa inclusive do ERP TOTVS (SQLSERVER). Montagem da base inicial de BI para o Grupo.
+Desenvolvedor Java - JSF - MYSQL April 2017 - April 2018 (1 year 1 month) Novo Hamburgo Area, Brazil
+Desenvolvedor Java para backend principalmente. Banco Mysql. JSF- Primefaces. Html CSS e JS também.
+
+Innovare e AT&M Informática Analista/Desenvolvedor ORACLE/Java/PHP November 2013 - February 2017 (3 years 4 months)
+Implantação de sistema ERP e manutenção do mesmo. Projetos de e- commerces PHP para os clientes em base oracle. Implantei a transformação do ERP em Oracle para PHP. Manutenção no sistemas legado em Java.
+
+Kbase IT Solutions
+Analista/Desenvolvedor/Consultor
+December 2011 - October 2013 (1 year 11 months) Sapiranga RS
+Analista, desenvolvedor Progress (4gl, Smart, Webspeed) Adobe FLEX e implementação de APIs para acesso de sistemas JAVA. Consultor EMS Datasul - Distribuição.
+
+Sinapse
+Programador
+2012 - 2012 (less than a year)
+Programador iniciante C++. Criei dll para emissão de Nota Fiscal.
+
+CGI Informática
+Consultor Implantação
+September 2010 - December 2011 (1 year 4 months)
+Consultor implantador integrador tradutor de software conjunto entre CGI Informática (Brasil) e isAG (Alemanha).
+
+AT&M Informática
+Analist / Developer
+
+
+
+
+November 2009 - August 2010 (10 months)
+Analista desenvolvedor PL/SQL, FORMS e REPORTS para customizações de clientes AT&M
+
+TERMOLAR S/A
+Analista Progress
+2009 - 2009 (less than a year)
+Analista desenvolvedor Progress EMS outsourcing.
+
+Quebec Porto Alegre
+Terceiro
+2009 - 2009 (less than a year) Analista desenvolvedor Progress EMS
+
+Bausch & Lomb Business Analist 2008 - 2009 (1 year)
+Analista de Negócios Substituto EMS Datasul - Distribuição.
+
+Grupo Vipal Analist Progress 2008 - 2009 (1 year)
+Analista desenvolvedor Progress EMS outsourcing.
+
+Kbase IT Solutions Analist Developer 2007 - 2009 (2 years)
+Analista desenvolvedor Progress, EMS Datasul e Flex.
+
+Datasul
+Analist
+2007 - 2008 (1 year)
+Analista Progress EMS desenvolvedor Progress Java.
+
+CGI INFORMATICA
+ANALIST
+2004 - 2008 (4 years)
+Analista desenvolvedor PL/SQL, FORMS e REPORTS para o produto (ERP) em módulos de Produção, Vendas, Estoques.
+
+
+
+
+
+
+
+
+Education
+Universidade Paulista
+Bachelor of Technology - BTech, Computer Software Engineering · (January 2021 - December 2023)
+
+Centro Universitário Feevale
+Tecnologo, Computer Science · (2013 - 2016)

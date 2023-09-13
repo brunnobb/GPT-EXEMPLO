@@ -1,0 +1,42 @@
+{{
+        nome: "Nome do candidado",
+        dataNascimento: "Data de nascimento do candidato",                
+        idade: "Idade do candidato",
+        email: "Email do candidato",
+        telefone: "Telefone do candidato",
+        endereco: "Endereço do candidato",
+        formacao: [{{
+          nome: "Nome da formação",
+          dataInicio: "Data de início da formação",
+          dataFim: "Data de fim da formação",
+          descricao: "Descrição da formação",
+          status: "Status da formação",
+        }}],
+        experiencia: [{{
+          nome: "Nome da empresa",
+          cargo: "Cargo do candidato",
+          dataInicio: "Data de início da experiencia",
+          dataFim: "Data de fim da experiencia",
+          descricao: "Descrição da experiência",
+        }}],
+        habilidades: [{{
+          nome: "Nome da habilidade",
+          nivel: "Nível da habilidade",
+        }}],
+        }}],
+        idiomas: [{{
+          nome: "Nome do idioma",
+          nivel: "Nível do idioma",
+        }}],
+        }}],
+        cursos: [{{
+          nome: "Nome do curso",
+          dataInicio: "Data de início do curso",
+          dataFim: "Data de fim do curso",
+        }}],
+        }}],
+        certificados: [{{
+          nome: "Nome do certificado",
+          data: "Data do certificado",
+        }}]
+      }}

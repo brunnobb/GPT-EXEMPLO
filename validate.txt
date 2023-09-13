@@ -1,0 +1,6 @@
+- Traduza as descrições dos cargos, empresas e línguas para português.
+- Não traduza nomes de empresas ou cargos, mantenha o nome original.
+- Campos de data devem estar no formato aaaa-mm-dd, caso algum campo de data seja inválida, defina como NULL.
+- Os niveis possiveis são,  Avançado, Intermediário e Básico, sendo que o padrão é Básico. Defina o nivel que mais se adaptar a experiencia do usuário.
+- Todos os registros devem ser ordenados por data de forma decrescente.
+- Caso não consiga retornar todas as informações, retorne o máximo que conseguir
